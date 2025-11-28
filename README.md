@@ -205,6 +205,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is a part of my learning journey, where I’ve been exploring and strengthening my SQL skills — a key tool for aspiring data analysts. I’m always open to feedback, questions, or collaborative opportunities to grow further!
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/ritambhatt)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/ritambhatt/)
 
 Thank you for your support, and I look forward to connecting with you!
